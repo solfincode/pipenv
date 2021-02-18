@@ -1,4 +1,8 @@
-This is pip freeze txt file. you can install pip3 packages for data science (science.txt) or web(web.txt) in your virtualenv environment.This file contents will continuously be updated<br><br>
+### conda env file
 
-install pip packages in your brand new virtualenv environment<br>
-pip install -r science.txt
+this github is archive of recent conda env file. you can download install conda pip package
+
+### installation
+
+- env38 is data science package based on python 3.8
+- conda env create -f env38.yaml
